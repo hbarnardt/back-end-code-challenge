@@ -33,6 +33,7 @@ What we are looking for in your submission:
 ### Bonus Marks
 - Using golang
 - Unit tests
+- Docker
 
 ### Submission 
 The results have to be shared as a git repository.
