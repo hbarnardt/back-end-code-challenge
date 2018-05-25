@@ -1,7 +1,7 @@
 # Back End Development Challenge
 
 ## Overview
-You'll be building a terminal based multiplater game of up to 4 players. The game consists of presenting multiplication challenges to each participant, the first person to answer the sum correctly wins the round.
+You'll be building a terminal based multiplayer game of up to 4 players. The game consists of presenting multiplication challenges to each participant, the first person to answer the sum correctly wins the round.
 
 ## Design and behaviour
 
@@ -10,7 +10,7 @@ You'll be building a terminal based multiplater game of up to 4 players. The gam
 - The server should accomodate for players connection latencies.
 - A player wins a round by getting the multiplication challenge correct and be the quickest answering.
 - At the end of each round, a scoreboard for the round should be shown with player response and player statistics such as response times per round, total average response time, standard deviation of response time. 
-- At the end of the game a scoreboard should be shown full game stats as depicated above. 
+- At the end of the game a scoreboard should be shown with full game stats as depicated above. 
 
 The design of the communication protocol is up to you. A reasonable scoring system is up to you, the last person to answer (or timeout due to max round time) should be given 0.  
 
